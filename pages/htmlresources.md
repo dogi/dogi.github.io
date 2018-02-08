@@ -5,6 +5,10 @@ Understanding of Couchdb database, Couchapp.
 Find out HTML5 and Javascript applications to upload it into Bell app.
 Adding resources to bell app library and make Bell much more interesting and interactive.
 
+> Note for Boaz:
+> this is just an example
+
+
 ##Documentation:
 Documentation helps to understand overall progress of project. Visit following link to learn more about it.Visit following link to learn more bout it.
 [Google Doc](https://docs.google.com/document/d/1aAzah833gWCQ2hWtGyMJLIK83nmunPJn42bnliLrxDk/edit?usp=sharing)
